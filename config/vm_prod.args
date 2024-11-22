@@ -1,0 +1,5 @@
+## Name of the node
+-name hub_v2
+
+## Cookie for distributed erlang
+-setcookie test
